@@ -71,8 +71,7 @@ You need to install python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/The-all-in-one-discord-tool.git
-   ```
+   git clone https://github.com/fwdracoALT/Discord-Nitro-Generator-and-Checker
 2. Install Python packages
    ```sh
    # Windows:
@@ -86,7 +85,7 @@ You need to install python, that can be done [here](https://www.python.org)
    
 #### Or this can be done using android with unrooted termiux
 ```
-git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
+git clone https://github.com/fwdracoALT/Discord-Nitro-Generator-and-Checker
 pkg install python
 pip install discord_webhooks
 pip install requests
@@ -109,7 +108,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/fwdracoALT/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
